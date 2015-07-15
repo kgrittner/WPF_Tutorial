@@ -1,0 +1,79 @@
+﻿<Window x:Class="ProWPF_C.MiscSources.WPFTutorialNet.Controls.CalanderCont"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" 
+        Title="CalanderCont" Height="342" Width="509">
+    <Window.Resources>
+        <ObjectDataProvider x:Key="calendarSelectionMode" MethodName="GetNames" ObjectType="{x:Type System:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="CalendarSelectionMode"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+        <ObjectDataProvider x:Key="displayModes" MethodName="GetNames" ObjectType="{x:Type System:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="CalendarMode"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+    </Window.Resources>
+    <Grid>
+        <TabControl TabStripPlacement="Left" HorizontalContentAlignment="Center">
+            <TabItem Header="Selection Modes">
+                <DockPanel>
+                    <StackPanel DockPanel.Dock="Top" Orientation="Horizontal"  Margin="10">
+                        <Label>Selection Mode</Label>
+                        <ComboBox x:Name="selectionmode" ItemsSource="{Binding Source={StaticResource calendarSelectionMode}}" SelectedIndex="0"/>
+         
+                    </StackPanel>
+                    <StackPanel Margin="10">
+                        <WrapPanel>
+                            <Label>Calander Size: </Label>
+                            <ComboBox ItemsSource="{Binding VolumeLevelList}" x:Name="sizeCal" Width="Auto" SelectedIndex="0">
+                                <ComboBoxItem>200</ComboBoxItem>
+                                <ComboBoxItem>220</ComboBoxItem>
+                                <ComboBoxItem>240</ComboBoxItem>
+                                <ComboBoxItem>260</ComboBoxItem>
+                                <ComboBoxItem>280</ComboBoxItem>
+                                <ComboBoxItem>300</ComboBoxItem>
+                            </ComboBox>
+                        </WrapPanel>
+                        <Viewbox Width="{Binding Path=SelectedValue.Content, ElementName=sizeCal, FallbackValue=200}" Height="Auto">
+                            <Calendar SelectionMode="{Binding SelectedItem, ElementName=selectionmode}" ></Calendar>
+                        </Viewbox>
+                    </StackPanel>
+                </DockPanel>
+            </TabItem>
+            <TabItem Header="Blackout Dates">
+                <StackPanel>
+                    <Rectangle Width="20" Height="46"></Rectangle>
+                    <Calendar SelectionMode="{Binding SelectedItem, ElementName=selectionmode}" >
+                        <Calendar.BlackoutDates>
+                            <CalendarDateRange Start="12/01/2013" End="12/11/2013" />
+                            <CalendarDateRange Start="12/24/2013" End="12/27/2013" />
+                        </Calendar.BlackoutDates>
+                    </Calendar>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Limit Displayed Date Range">
+                <DockPanel>
+                    <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+                        <Rectangle Width="20" Height="46"></Rectangle>
+                    </StackPanel>
+                    <Calendar DisplayDateStart="01/01/2010" DisplayDateEnd="01/15/2010" />
+                </DockPanel>
+                
+            </TabItem>
+            <TabItem Header="Display Mode">
+                <DockPanel>
+                    <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="10">
+                            <Label>Selection Mode: </Label>
+                            <ComboBox x:Name="displayModes" ItemsSource="{Binding Source={StaticResource displayModes}}" SelectedIndex="0"></ComboBox>
+                    </StackPanel>
+                    <Calendar DisplayMode="{Binding SelectedItem, ElementName=displayModes}"></Calendar>
+                </DockPanel>
+            </TabItem>
+        </TabControl>
+        
+        
+        
+    </Grid>
+</Window>

@@ -1,0 +1,18 @@
+﻿<Window x:Class="ProWPF_C.ToKnow2000.Basics.Application_Scoped_Resources"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Application_Scoped_Resources" Height="300" Width="300">
+    <Grid>
+        <Grid>
+            <StackPanel>
+                <Label Content="This style is defined in the App.xmal in:" />
+                <Label>Application.Resources</Label>
+                <Button Content="Button" Background="{StaticResource greenBrush}"
+                Height="23" HorizontalAlignment="Left" Margin="60,57,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click_1" />
+                <Button Content="Button" Background="{StaticResource greenBrush}"
+                Height="23" HorizontalAlignment="Left" Margin="60,57,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click_1" />
+            </StackPanel>
+            
+        </Grid>
+    </Grid>
+</Window>

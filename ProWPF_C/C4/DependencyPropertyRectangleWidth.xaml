@@ -1,0 +1,19 @@
+﻿<Window x:Class="ProWPF_C.C4.DependencyPropertyRectangleWidth"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DependencyPropertyRectangleWidth" Height="300" Width="300">
+    <Grid>
+        <StackPanel>
+            <Button Click="Detach_Click" Content="Detach Event"/>
+            <Button Click="Attach_Click" Content="Attach Event"/>
+            <Button Click="Change_Click" Content="Change Event"/>
+            <Button Click="Reset_Click" Content="Reset Text"/>
+            <Label Name="lblSideLabel">Hmmm hmmm hmmm</Label>
+            <Rectangle Name="red_rectangle"
+                       Height="10"
+                       Width="20"
+                       Fill="Red"
+                       HorizontalAlignment="Left"></Rectangle>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,31 @@
+﻿<Window x:Class="ProWPF_C.Ch11_Styles_Behaviors.StyleInheritance"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StyleInheritance" Height="300" Width="300">
+    <Window.Resources>
+        <Style x:Key="BigFontButtonStyle" >
+            <Setter Property="Control.FontFamily" Value="Times New Roman"></Setter>
+            <Setter Property="Control.FontSize" Value="18"></Setter>
+            <Setter Property="Control.FontWeight" Value="Bold"></Setter>
+        </Style>
+
+        <Style x:Key="EmphasizedBigFontButtonStyle" BasedOn="{StaticResource BigFontButtonStyle}">
+            <Setter Property="Control.Foreground" Value="White"></Setter>
+            <Setter Property="Control.Background" Value="Blue"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Margin="5">
+            <Button Padding="5" Margin="5"
+                    Style="{StaticResource BigFontButtonStyle}">
+                Uses BigFontButtonStyle
+            </Button>
+            <TextBlock Margin="5">Normal Text</TextBlock>
+            <Button Margin="5" Padding="5">Normal Button</Button>
+            <Button Padding="5" Margin="5"
+                    Style="{StaticResource EmphasizedBigFontButtonStyle}">
+                Uses EmphasizedBigFontButtonStyle
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

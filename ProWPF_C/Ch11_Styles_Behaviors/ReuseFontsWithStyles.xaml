@@ -1,0 +1,24 @@
+﻿<Window x:Class="ProWPF_C.Ch11_Styles_Behaviors.ReuseFontsWithStyles"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ReuseFontsWithStyles" Height="300" Width="300">
+    <Window.Resources>
+        <Style x:Key="BigButtonFontStyle">
+            <Setter Property="Control.FontFamily" Value="Times New Roman"></Setter>
+            <Setter Property="Control.FontSize" Value="18"></Setter>
+            <Setter Property="Control.FontWeight" Value="Bold"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Margin="5">
+            <Button Margin="5" Padding="5" Style="{StaticResource BigButtonFontStyle}">
+                A Customized Button
+            </Button>
+            <Button Margin="5" Padding="5">A Normal Button</Button>
+            <TextBlock Margin="5">Normal TextBlock</TextBlock>
+            <Button Margin="5" Padding="5" Style="{StaticResource BigButtonFontStyle}">
+                Another Customized Button
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

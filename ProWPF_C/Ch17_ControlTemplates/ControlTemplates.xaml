@@ -1,0 +1,8 @@
+﻿<Window x:Class="ProWPF_C.Ch17_ControlTemplates.ControlTemplates"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ControlTemplates" Height="300" Width="300">
+    <Grid>
+        
+    </Grid>
+</Window>

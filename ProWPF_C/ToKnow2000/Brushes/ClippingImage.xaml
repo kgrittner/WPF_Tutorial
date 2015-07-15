@@ -1,0 +1,31 @@
+﻿<Window x:Class="ProWPF_C.ToKnow2000.Brushes.ClippingImage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ClippingImage" Height="360.129" Width="478">
+    
+<!--BEFORE-->
+    <!--<Grid>
+        <Border BorderBrush="Black" BorderThickness="3" Margin="10"
+        Width="370" Height="267" CornerRadius="40" >
+            <Image Source="..\Images\zen1.jpg"/>
+        </Border>
+    </Grid>-->
+
+    
+    
+<!--AFTER-->
+    <Border BorderBrush="Black" BorderThickness="3" Margin="10" Width="370" Height="267"
+    CornerRadius="40" >
+        <Grid>
+            <Border  Name="myBorder" CornerRadius="40" Background="White" Margin="1"/>
+            <Image Source="..\Images\zen1.jpg" Margin="1">
+                <Image.OpacityMask>
+                    <VisualBrush Visual="{Binding ElementName=myBorder}"/>
+                </Image.OpacityMask>
+            </Image>
+        </Grid>
+    </Border>
+    
+    
+    
+</Window>

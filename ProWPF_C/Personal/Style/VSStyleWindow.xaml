@@ -1,0 +1,20 @@
+﻿<Window x:Class="ProWPF_C.Personal.Style.VSStyleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VSStyleWindow" Height="300" Width="300"
+        xmlns:local="clr-namespace:ProWPF_C.Personal.Style"
+        Style="{DynamicResource ResourceKey=MyWindowStyle}"
+        >
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="VSWindowStyle.xaml" />
+                <ResourceDictionary Source="Resources.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Label Foreground="White">Hello World</Label>
+        <Label Foreground="Black">Hello World</Label>
+    </Grid>
+</Window>

@@ -1,0 +1,48 @@
+﻿<Window x:Class="ProWPF_C.ToKnow2000.Controls.TextBlockRichContent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextBlockRichContent" Height="584" Width="613">
+    <Grid>
+        <StackPanel>
+            <Label>#244 – Use a TextBlock Element for Richer Formatting</Label>
+            <TextBlock Background="DarkGray" Margin="10" Height="100" FontSize="14">
+            <Run Text="Lancaster" Foreground="Red" TextDecorations="Underline"/>
+            <Run Text=" / "/>
+            <Run Text="York" Foreground="White" TextDecorations="Underline"/>
+            <LineBreak/>
+            
+            <Run Text="Richard, Duke of York" Foreground="White" FontSize="16" FontWeight="Bold"/>
+            <LineBreak/>
+            
+            <Run Text="Henry VI" Foreground="Red" FontSize="16" FontWeight="Bold"/>
+            <LineBreak/>
+            
+            <Run Text="Warwick" Foreground="White" FontStyle="Italic"/>
+            <LineBreak/>
+            
+            <Run Text="Somerset" Foreground="Red" FontStyle="Italic"/>
+            </TextBlock>
+            <Separator></Separator>
+            
+<!--Section 2-->
+            <Label>#245 – Easily Inline Text Formatting Codes with TextBlock Control</Label>
+            <TextBlock Margin="10" Height="100" FontSize="14" Width="290" TextWrapping="Wrap">
+                We <Bold>few</Bold>, we happy <Bold>few</Bold>, we band of <Underline>brothers</Underline>;
+                For he to-day that sheds his <Italic>blood</Italic> with me
+                Shall be my <Underline>brother</Underline>; be he ne'er so <Italic>vile</Italic>,
+                This day shall <Bold>gentle</Bold> his <Italic>condition</Italic>;"
+            </TextBlock>
+            <Separator></Separator>
+
+            <Label>#259 – Setting Typography Properties for Text Rendered with an OpenType Font</Label>
+            <TextBlock Margin="20" Width="350" Height="55" FontWeight="SemiBold"
+                FontFamily="Constantia" FontSize="16"
+                TextWrapping="Wrap">
+                We secure our friends not by accepting favors but by doing them.
+                <Run Typography.Capitals="SmallCaps">--Thucydides</Run>
+            </TextBlock>
+            <Separator></Separator>
+        </StackPanel>
+
+    </Grid>
+</Window>

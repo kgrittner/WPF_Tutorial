@@ -1,0 +1,177 @@
+﻿<Window x:Class="ProWPF_C.ToKnow2000.Basics.Combo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Test" Height="887" Width="543.985">
+    <Window.Resources>
+        <Style x:Key="hoverStyle" TargetType="Button">
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter Property="Button.Effect">
+                        <Setter.Value>
+                            <DropShadowEffect/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+
+
+        <StackPanel Grid.Column="0">
+<!--SECTION 1-->
+            <StackPanel>
+                <Button Click="Button_Click_1" Content="#127 – Reacting to a Dependency Property Change Using Triggers" />
+                <CheckBox Content="Check Me" HorizontalAlignment="Center">
+                    <CheckBox.Style>
+                        <Style TargetType="CheckBox">
+                            <Style.Triggers>
+                                <Trigger Property="IsChecked" Value="true">
+                                    <Setter Property="Foreground" Value="BlueViolet"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </CheckBox.Style>
+                </CheckBox>
+                <Separator />
+            </StackPanel>
+            
+<!--SECTION 2-->
+            <StackPanel>
+                <Label Content="#129 – Properties Changed by Triggers Are Automatically Reset" />
+                <Label Content="Hover Over the buttons" />
+                <WrapPanel>
+                    <Button Margin="10,0" Content="Run" Width="100" Style="{StaticResource hoverStyle}" />
+                    <Button Margin="10,0" Content="SKip" Width="100" Style="{StaticResource hoverStyle}" />
+                    <Button Margin="10,0" Content="Jump" Width="100" Style="{StaticResource hoverStyle}" />
+                </WrapPanel>
+                <Separator Margin="0,10" />
+            </StackPanel>
+            
+<!--SECTION 3-->
+            <StackPanel>
+                <Label Content="#176 – Two Kinds of Templates" />
+                <Label FontStyle="Italic" Content="Create Person Object for sample 2 to work... Uncertain how this works" />
+                <WrapPanel>
+                    <Button Name="btnWithTemplate" Content="Recreate Me" Foreground="Blue">
+                        <Button.Template>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <StackPanel Orientation="Horizontal">
+                                    <Label Content="**" Foreground="{TemplateBinding Foreground}"/>
+                                    <Button Content="{TemplateBinding Content}" Foreground="{TemplateBinding Foreground}"/>
+                                    <Label Content="**" Foreground="{TemplateBinding Foreground}"/>
+                                </StackPanel>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    <Label Name="lblPerson" Content="{Binding}">
+                        <Label.ContentTemplate>
+                            <DataTemplate>
+                                <Border BorderThickness="2" BorderBrush="DarkBlue">
+                                    <StackPanel Orientation="Vertical">
+                                        <StackPanel Orientation="Horizontal">
+                                            <Label Content="{Binding Path=FirstName}"/>
+                                            <Label Content="{Binding Path=LastName}" FontWeight="Bold"/>
+                                        </StackPanel>
+                                        <Label Content="{Binding Path=BirthYear}" FontStyle="Italic"/>
+                                    </StackPanel>
+                                </Border>
+                            </DataTemplate>
+                        </Label.ContentTemplate>
+                    </Label>
+                </WrapPanel>
+                <Separator Margin="0,10" />
+            </StackPanel>
+
+<!--SECTION 4-->
+            <StackPanel>
+                <Label Content="#199 – An Application's Windows Property Lists All of Its Windows" />
+                <WrapPanel> 
+                    <Button Margin="25,0" Content="Create New Window" Click="Button_Click_2" />
+                    <Button Margin="25,0"  Content="Where Are the Windows?" Click="Button_Click_3" />
+                </WrapPanel>
+                <Separator Margin="0,10" />
+            </StackPanel>
+
+<!--SECTION 5-->
+            <StackPanel>
+                <Label Content="#200 – Parent/Child Relationships Between Windows" />
+                <Label FontStyle="Italic">When Test Main is closed or min all child windows respond</Label>
+                <WrapPanel>
+                    <Button Click="Button_Click_4">Creat New Child Window</Button>
+                </WrapPanel>
+                <Separator Margin="0,10" />
+            </StackPanel>
+
+<!--SECTION 6-->
+            <StackPanel>
+                <Label Content="#201 – Showing a Modal Dialog Using ShowDialog" />
+                <Label FontStyle="Italic">Modal: Cannot interact with other windows until closed</Label>
+                <Label FontStyle="Italic">Modaless: Is fully independant. When main is closed all window still opend</Label>
+                <WrapPanel>
+                    <Button Click="Button_Click_5">Model</Button>
+                    <Button Click="Button_Click_6">Modeless</Button>
+                </WrapPanel>
+                <Separator Margin="0,10" />
+            </StackPanel>
+
+<!--SECTION 7-->
+            <StackPanel>
+                <Label Content="#204 – Detecting Key Presses in a WPF Window" />
+                <Label FontStyle="Italic">Will display any vowel keyed into a label below</Label>
+                <WrapPanel>
+                    <Label Name="lblVowels"></Label>
+                </WrapPanel>
+                <Separator Margin="0,10" />
+            </StackPanel>
+
+<!--SECTION 8-->
+            <StackPanel>
+                <Label Content="" />
+                <Label FontStyle="Italic"></Label>
+                <WrapPanel>
+                    
+                </WrapPanel>
+                <Separator Margin="0,10" />
+            </StackPanel>
+
+<!--SECTION 9-->
+            <StackPanel>
+                <Label Content="" />
+                <Label FontStyle="Italic"></Label>
+                <WrapPanel>
+
+                </WrapPanel>
+                <Separator Margin="0,10" />
+            </StackPanel>
+
+
+
+
+
+
+
+
+
+
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="2">
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="3">
+
+        </StackPanel>
+
+
+
+
+
+    </Grid>
+</Window>

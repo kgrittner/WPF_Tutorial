@@ -1,0 +1,17 @@
+﻿<Window x:Class="ProWPF_C.ToKnow2000.Controls.WindowSizing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WindowSizing" Height="300" Width="300" SizeToContent="WidthAndHeight">
+    <Grid>
+        <TextBlock TextWrapping="Wrap" Width="300">
+            USE: <Bold>SizeToContent="WidthAndHeight"</Bold><LineBreak></LineBreak><LineBreak></LineBreak>
+            USE: <Bold>MinHeight="100" MinWidth="200"</Bold><LineBreak></LineBreak><LineBreak></LineBreak>
+            USE: <Bold>ResizeMode="CanMinimize"</Bold><LineBreak></LineBreak><LineBreak></LineBreak>
+            <LineBreak></LineBreak><LineBreak></LineBreak>
+            If you want the window to automatically size to fit its contents, you can set the SizeToContent property.<LineBreak></LineBreak><LineBreak></LineBreak>
+            By default, this property has a value of Manual, indicating that the Width and Height properties will dictate the window’s size.<LineBreak></LineBreak><LineBreak></LineBreak>
+            (Ignoring the effect of min/max properties).<LineBreak></LineBreak><LineBreak></LineBreak>
+            Setting SizeToContent to Height will force the window to adjust its height to fit the contents.
+        </TextBlock>
+    </Grid>
+</Window>

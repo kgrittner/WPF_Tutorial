@@ -1,0 +1,9 @@
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\SQLHelper\bin\Debug\SQLHelper.dll
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\SQLHelper\obj\Debug\SQLHelper.dll
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\SQLHelper\obj\Debug\SQLHelper.pdb
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\SQLHelper\bin\Debug\SQLHelper.dll
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\SQLHelper\obj\Debug\SQLHelperClass.csprojResolveAssemblyReference.cache
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\SQLHelper\obj\Debug\SQLHelper.dll
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\SQLHelper\obj\Debug\SQLHelper.pdb

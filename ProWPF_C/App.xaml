@@ -1,0 +1,14 @@
+﻿<Application x:Class="ProWPF_C.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <SolidColorBrush x:Key="greenBrush"  Color="Green"/>
+            <!--<SolidColorBrush Color="Blue" x:Key="brush1" />-->
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="WPFCookbook/Ch2Resources/Resources/Brushes.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

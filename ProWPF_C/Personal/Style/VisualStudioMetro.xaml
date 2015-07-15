@@ -1,0 +1,26 @@
+﻿<Window x:Class="ProWPF_C.Personal.Style.VisualStudioMetro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VisualStudioMetro" Height="300" Width="300"
+        xmlns:local="clr-namespace:ProWPF_C"
+        
+    Style="{DynamicResource ResourceKey=MyWindowStyle}"
+        >
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Dictionary1.xaml" />
+                <ResourceDictionary Source="Dictionary2.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <StackPanel>
+            <Label>Hello</Label>
+            <TextBox></TextBox>
+            <Button Style="{DynamicResource ResourceKey=StandardButton}">
+
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

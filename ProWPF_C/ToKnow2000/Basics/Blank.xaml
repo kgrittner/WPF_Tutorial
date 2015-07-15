@@ -1,0 +1,8 @@
+﻿<Window x:Class="ProWPF_C.ToKnow2000.Basics.Blank"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Blank" Height="300" Width="300">
+    <Grid>
+        
+    </Grid>
+</Window>

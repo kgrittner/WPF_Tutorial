@@ -1,0 +1,1531 @@
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\bin\Debug\ProWPF_C.exe.config
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\bin\Debug\ProWPF_C.exe
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\bin\Debug\ProWPF_C.pdb
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\ProWPF_C.csprojResolveAssemblyReference.cache
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\MainWindow.baml
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\MainWindow.g.cs
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\App.g.cs
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\ProWPF_C_MarkupCompile.cache
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\ProWPF_C.g.resources
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\ProWPF_C.Properties.Resources.resources
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\ProWPF_C.csproj.GenerateResource.Cache
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\ProWPF_C.exe
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\ProWPF_C.pdb
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\TestWindow1.baml
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\TestWindow1.g.cs
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\C4\DependencyPropertyRectangleWidth.baml
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\C4\DependencyPropertyRectangleWidth.g.cs
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\Ch5RoutedEvents.baml
+C:\Users\KarlFast\AppData\Local\Temporary Projects\ProWPF_C\obj\Debug\Ch5RoutedEvents.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.exe.config
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.exe
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.pdb
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.exe
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.pdb
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.csprojResolveAssemblyReference.cache
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\C4\DependencyPropertyRectangleWidth.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\MainWindow.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\TestWindow1.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\C4\DependencyPropertyRectangleWidth.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\MainWindow.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\TestWindow1.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\App.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_MarkupCompile.cache
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.g.resources
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.Properties.Resources.resources
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.csproj.GenerateResource.Cache
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_Content.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\DynamicResource.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\WindowsResource.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\DynamicResource.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\WindowsResource.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\TwoResources.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\TwoResources.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventSetter.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontsWithStyles.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontWithResources.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventSetter.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontsWithStyles.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontWithResources.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\StyleInheritance.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\StyleInheritance.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\AutomaticStyles.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\SimpleTriggers.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\AutomaticStyles.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\SimpleTriggers.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventTriggers.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventTriggers.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\PlayMediaTest.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\PlayMediaTest.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\CustomBehaviorsLibrary.pdb
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\Ch11_Styles_Behaviors\test.mp3
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\FadeInAndOutTest.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\FadeInAndOutTest.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\DragInCanvasTest.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\DragInCanvasTest.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleWindow.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\VisualTreeDisplay.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleWindow.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\VisualTreeDisplay.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ControlTemplates.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleCustomButtons.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ControlTemplates.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleCustomButtons.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonsWithAnimations.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonsWithAnimations.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\GradiantButtonTest.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\GradiantButton.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\GradiantButtonVariant.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\GradiantButtonTest.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonTemplate.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\MultiPartTemplates.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\ListBox.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonTemplate.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\MultiPartTemplates.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ContentTemplateBrowser.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ContentTemplateBrowser.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControlTest.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControlTest.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CodeAnimation.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CodeAnimation.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\XamlAnimation.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\XamlAnimation.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\ImageWipe.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\ImageWipe.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\Easing.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\Easing.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CustomEasingFunction.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_MarkupCompile.lref
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CustomEasingFunction.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\FrameRates.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\FrameRates.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\AnimateRadialGradient.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\AnimateRadialGradient.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\RotateButton.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\RotateButton.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\Test.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\eyeBall.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\eyeBall.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch5_RoutedEvents\Ch5RoutedEvents.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonsWithContent.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonWithShape.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\CheckBoxList.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\DateControls.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\EmbeddedFont.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableContent.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableScrollerContent.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GdiTextRendering.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GraphicalTabTiles.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ImageList.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LabelTest.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LogicalScrolling.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\MultiDirectionExpanders.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\PopupTest.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ProgressBar.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\RadioButtonGroups.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ScrollableTextBoxCollumn.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SlidersCompared.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SliderTest.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\TextBoxTest.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\Tooltips.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch5_RoutedEvents\Ch5RoutedEvents.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonsWithContent.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonWithShape.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\CheckBoxList.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\DateControls.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\EmbeddedFont.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableContent.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableScrollerContent.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GdiTextRendering.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GraphicalTabTiles.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ImageList.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LabelTest.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LogicalScrolling.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\MultiDirectionExpanders.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\PopupTest.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ProgressBar.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\RadioButtonGroups.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ScrollableTextBoxCollumn.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SlidersCompared.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SliderTest.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\TextBoxTest.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\Tooltips.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\Ch7_TheApplication\Sounds\start.wav
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\AssemblyResources.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\Document.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\SingleInstanceApplication.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\WindowTracker.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\AssemblyResources.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\Document.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\SingleInstanceApplication.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\WindowTracker.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\BindToFont.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\ElementToElementBinding.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\FontChooser.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\MultipleBindings.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\SimpleDocument.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\TestNewCommand.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\BindToFont.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\ElementToElementBinding.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\FontChooser.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\MultipleBindings.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\SimpleDocument.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\TestNewCommand.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindProductObject.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindProductObject.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToCollection.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToCollection.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToDataSet.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToDataSet.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToLinqFilteredCollection.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToLinqFilteredCollection.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\VirtualizationTest.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\VirtualizationTest.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\ValidationTest.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\ValidationTest.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindingGroupValidation.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindingGroupValidation.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToXmlDataProvider.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToXmlDataProvider.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Animating_A_Transform.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Property_Based_Animation_7.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Pulsing_Image.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Rotation_Transform.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Scale_Transform.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Application_Scoped_Resources.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Blank.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Navigating_the_Logical_Tree_in_Code.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Styles.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Templates.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Unhandled_Exceptions.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\Brushes.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\ClippingImage.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\BindingButtonToCommand.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\DeterminIfButtonIsEnabled.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\MenuItem.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\App.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Animating_A_Transform.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Property_Based_Animation_7.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Pulsing_Image.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Rotation_Transform.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Scale_Transform.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Application_Scoped_Resources.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Blank.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Navigating_the_Logical_Tree_in_Code.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Styles.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Templates.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Unhandled_Exceptions.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\Brushes.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\ClippingImage.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\BindingButtonToCommand.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\DeterminIfButtonIsEnabled.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\MenuItem.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Combo.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Combo.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\CalanderCont.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\TextBoxCon.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\CalanderCont.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\ColorPicker.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\TextBoxCon.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\ColorPicker.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\TextBlockRichContent.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\TextBlockRichContent.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\FlowDocument.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\FlowDocument.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\Page1.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\WindowSizing.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\Page1.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\WindowSizing.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ValueConverter.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ValueConverter.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\MoreValueConverters.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\MoreValueConverters.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ListStyles.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ListStyles.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\RadioButtonList.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\RadioButtonList.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\CheckBoxList.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\CheckBoxList.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedStyles.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedStyles.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateList.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateList.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateControls.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateControls.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedTemplates.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedTemplates.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ExpandingDataTemplate.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ExpandingDataTemplate.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\WrappedList.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\WrappedList.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ComboBoxSelectionBox.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ComboBoxSelectionBox.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\NavigateCollection.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\NavigateCollection.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterCollection.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterCollection.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterDataSet.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterDataSet.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupList.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupList.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupInRanges.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupInRanges.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Personal\Style\VSWindowStyle.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Dictionary1.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Dictionary2.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Resouces.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControl.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControl.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CustomTypes.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CustomTypes.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\TestRandom.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\TestRandom.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\UserCont\SimpleControl.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\xDependancyProperty.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\UserCont\SimpleControl.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\xDependancyProperty.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\AttachedProperties.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\AttachedProperties.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\HandlingRoutedEvents.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\HandlingRoutedEvents.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CalculatorRoutedEvents.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CalculatorRoutedEvents.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\SimpleResources.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\SimpleResources.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\DynamicVsStatic.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\DynamicVsStatic.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\UserSelectedColorsFonts.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\UserSelectedColorsFonts.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\BinaryResources.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\BinaryResources.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\bin\Debug\WPFCookbook\Ch2Resources\Images\Jellyfish.jpg
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\AccessingBinaryResourceInCode.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\AccessingBinaryResourceInCode.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\ManagingLogicalResources.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\Resources\Brushes.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\AddRemoveElementsToPanel.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\ComplexTabs.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\SimpleTabs.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\ManagingLogicalResources.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\AddRemoveElementsToPanel.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\ComplexTabs.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\SimpleTabs.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\DragAndDrop.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\DragAndDrop.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TextControls.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TextControls.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ContentControls.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ContentControls.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Images.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Images.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Lists.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ToolTips.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Lists.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ToolTips.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Menus.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Menus.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TabAndFocus.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TabAndFocus.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\DetailsDialog.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\Dialogs.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\DetailsDialog.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\Dialogs.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CommonDialogs.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CommonDialogs.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CustomShapedWindows.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CustomShapedWindows.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElement.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SingleObjectBinding.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElement.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SingleObjectBinding.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\BindingToCollection.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\BindingToCollection.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplates.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplates.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecast.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecast.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MultiBindings.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MultiBindings.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\TreeViewBinding.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\TreeViewBinding.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingData.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingData.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo2.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo2.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElementCodeBindings.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElementCodeBindings.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplateSelectors.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplateSelectors.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTypedDataTemplates.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTypedDataTemplates.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecastWithTriggers.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecastWithTriggers.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail2.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail2.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering2.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering2.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering3.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering3.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData2.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData2.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\RelativeSourceBindings.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingDataWithAnnotations.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\RelativeSourceBindings.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingDataWithAnnotations.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\HeaderContent.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\HeaderContent.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch7CommandsAndMVVM\RoutedCommands.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch7CommandsAndMVVM\RoutedCommands.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.exe.config
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.exe
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.pdb
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\WPFCookbook\Ch2Resources\Images\Jellyfish.jpg
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\Ch11_Styles_Behaviors\test.mp3
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\Ch7_TheApplication\Sounds\start.wav
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.exe
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.pdb
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\CustomBehaviorsLibrary.pdb
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\System.Windows.Interactivity.xml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.csprojResolveAssemblyReference.cache
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\C4\DependencyPropertyRectangleWidth.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\DynamicResource.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\TwoResources.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\WindowsResource.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\AutomaticStyles.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\DragInCanvasTest.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventSetter.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventTriggers.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\FadeInAndOutTest.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\PlayMediaTest.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontsWithStyles.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontWithResources.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\SimpleTriggers.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\StyleInheritance.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CodeAnimation.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\Easing.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\FrameRates.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\ImageWipe.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\AnimateRadialGradient.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\eyeBall.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\RotateButton.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\Test.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonsWithAnimations.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonTemplate.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ContentTemplateBrowser.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ControlTemplates.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\GradiantButtonTest.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\MultiPartTemplates.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\GradiantButton.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\GradiantButtonVariant.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\ListBox.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleCustomButtons.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleWindow.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\VisualTreeDisplay.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControl.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindProductObject.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToCollection.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToDataSet.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToLinqFilteredCollection.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToXmlDataProvider.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\VirtualizationTest.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\CheckBoxList.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateControls.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ListStyles.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\RadioButtonList.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterDataSet.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupList.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch5_RoutedEvents\Ch5RoutedEvents.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonsWithContent.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonWithShape.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\CheckBoxList.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\DateControls.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\EmbeddedFont.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableContent.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableScrollerContent.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GdiTextRendering.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GraphicalTabTiles.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ImageList.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LabelTest.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LogicalScrolling.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\MultiDirectionExpanders.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\PopupTest.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ProgressBar.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\RadioButtonGroups.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ScrollableTextBoxCollumn.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SlidersCompared.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SliderTest.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\TextBoxTest.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\Tooltips.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\AssemblyResources.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\Document.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\SingleInstanceApplication.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\WindowTracker.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\BindToFont.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\ElementToElementBinding.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\FontChooser.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\MultipleBindings.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\SimpleDocument.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\TestNewCommand.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Dictionary1.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Dictionary2.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\MainWindow.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\CalanderCont.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\TextBoxCon.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Personal\Style\VSWindowStyle.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Resouces.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Animating_A_Transform.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Property_Based_Animation_7.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Pulsing_Image.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Rotation_Transform.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Scale_Transform.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Application_Scoped_Resources.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Blank.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Navigating_the_Logical_Tree_in_Code.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Styles.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Templates.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Combo.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Unhandled_Exceptions.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\Brushes.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\ClippingImage.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\BindingButtonToCommand.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\DeterminIfButtonIsEnabled.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\MenuItem.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\FlowDocument.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\Page1.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\TextBlockRichContent.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\WindowSizing.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\AttachedProperties.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CalculatorRoutedEvents.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\HandlingRoutedEvents.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\UserCont\SimpleControl.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\AccessingBinaryResourceInCode.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\BinaryResources.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\DynamicVsStatic.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\ManagingLogicalResources.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\Resources\Brushes.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\SimpleResources.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\UserSelectedColorsFonts.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\AddRemoveElementsToPanel.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\ComplexTabs.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\DragAndDrop.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\SimpleTabs.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Images.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Lists.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Menus.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TabAndFocus.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TextControls.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ToolTips.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CommonDialogs.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CustomShapedWindows.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\DetailsDialog.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\Dialogs.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\BindingToCollection.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplates.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElement.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElementCodeBindings.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail2.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\RelativeSourceBindings.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SingleObjectBinding.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\TreeViewBinding.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingDataWithAnnotations.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecastWithTriggers.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\HeaderContent.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\App.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\C4\DependencyPropertyRectangleWidth.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\DynamicResource.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\TwoResources.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\WindowsResource.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\AutomaticStyles.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\DragInCanvasTest.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventSetter.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventTriggers.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\FadeInAndOutTest.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\PlayMediaTest.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontsWithStyles.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontWithResources.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\SimpleTriggers.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\StyleInheritance.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CodeAnimation.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CustomEasingFunction.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\Easing.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\FrameRates.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\ImageWipe.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\XamlAnimation.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\AnimateRadialGradient.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\eyeBall.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\RotateButton.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonsWithAnimations.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonTemplate.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ContentTemplateBrowser.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ControlTemplates.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\GradiantButtonTest.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\MultiPartTemplates.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleCustomButtons.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleWindow.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\VisualTreeDisplay.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControl.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControlTest.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindingGroupValidation.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindProductObject.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToCollection.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToDataSet.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToLinqFilteredCollection.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToXmlDataProvider.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\ValidationTest.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\VirtualizationTest.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\CheckBoxList.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ComboBoxSelectionBox.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateControls.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateList.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ExpandingDataTemplate.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ListStyles.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\MoreValueConverters.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\RadioButtonList.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ValueConverter.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedStyles.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedTemplates.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\WrappedList.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterCollection.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterDataSet.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupInRanges.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupList.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\NavigateCollection.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch5_RoutedEvents\Ch5RoutedEvents.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonsWithContent.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonWithShape.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\CheckBoxList.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\DateControls.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\EmbeddedFont.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableContent.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableScrollerContent.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GdiTextRendering.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GraphicalTabTiles.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ImageList.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LabelTest.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LogicalScrolling.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\MultiDirectionExpanders.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\PopupTest.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ProgressBar.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\RadioButtonGroups.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ScrollableTextBoxCollumn.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SlidersCompared.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SliderTest.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\TextBoxTest.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\Tooltips.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\AssemblyResources.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\Document.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\SingleInstanceApplication.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\WindowTracker.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\BindToFont.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\ElementToElementBinding.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\FontChooser.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\MultipleBindings.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\SimpleDocument.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\TestNewCommand.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\MainWindow.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\CalanderCont.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\ColorPicker.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\TextBoxCon.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\TestWindow1.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Animating_A_Transform.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Property_Based_Animation_7.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Pulsing_Image.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Rotation_Transform.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Scale_Transform.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Application_Scoped_Resources.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Blank.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Navigating_the_Logical_Tree_in_Code.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Styles.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Templates.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Combo.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Unhandled_Exceptions.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\Brushes.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\ClippingImage.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\BindingButtonToCommand.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\DeterminIfButtonIsEnabled.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\MenuItem.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\FlowDocument.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\Page1.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\TextBlockRichContent.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\WindowSizing.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\AttachedProperties.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CalculatorRoutedEvents.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CustomTypes.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\HandlingRoutedEvents.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\TestRandom.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\UserCont\SimpleControl.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\xDependancyProperty.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\AccessingBinaryResourceInCode.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\BinaryResources.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\DynamicVsStatic.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\ManagingLogicalResources.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\SimpleResources.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\UserSelectedColorsFonts.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\AddRemoveElementsToPanel.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\ComplexTabs.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\DragAndDrop.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\SimpleTabs.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ContentControls.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Images.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Lists.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Menus.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TabAndFocus.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TextControls.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ToolTips.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CommonDialogs.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CustomShapedWindows.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\DetailsDialog.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\Dialogs.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\BindingToCollection.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo2.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplates.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplateSelectors.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTypedDataTemplates.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElement.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElementCodeBindings.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData2.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail2.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MultiBindings.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\RelativeSourceBindings.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SingleObjectBinding.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering2.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering3.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\TreeViewBinding.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingData.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingDataWithAnnotations.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecast.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecastWithTriggers.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\HeaderContent.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch7CommandsAndMVVM\RoutedCommands.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\App.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_Content.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_MarkupCompile.cache
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_MarkupCompile.lref
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CustomEasingFunction.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\XamlAnimation.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControlTest.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindingGroupValidation.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\ValidationTest.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ComboBoxSelectionBox.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateList.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ExpandingDataTemplate.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\MoreValueConverters.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ValueConverter.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedStyles.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedTemplates.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\WrappedList.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterCollection.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupInRanges.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\NavigateCollection.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\ColorPicker.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\TestWindow1.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CustomTypes.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\TestRandom.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\xDependancyProperty.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ContentControls.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo2.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplateSelectors.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTypedDataTemplates.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData2.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MultiBindings.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering2.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering3.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingData.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecast.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch7CommandsAndMVVM\RoutedCommands.baml
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.g.resources
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.Properties.Resources.resources
+C:\aaaProjects\Run\Applications\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.csproj.GenerateResource.Cache
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.exe.config
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.exe
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.pdb
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\WPFCookbook\Ch2Resources\Images\Jellyfish.jpg
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\Ch11_Styles_Behaviors\test.mp3
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\Ch7_TheApplication\Sounds\start.wav
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.exe
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.pdb
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\CustomBehaviorsLibrary.pdb
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.csprojResolveAssemblyReference.cache
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\C4\DependencyPropertyRectangleWidth.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\DynamicResource.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\TwoResources.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\WindowsResource.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\AutomaticStyles.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\DragInCanvasTest.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventSetter.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventTriggers.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\FadeInAndOutTest.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\PlayMediaTest.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontsWithStyles.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontWithResources.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\SimpleTriggers.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\StyleInheritance.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CodeAnimation.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\Easing.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\FrameRates.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\ImageWipe.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\AnimateRadialGradient.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\eyeBall.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\RotateButton.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\Test.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonsWithAnimations.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonTemplate.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ContentTemplateBrowser.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ControlTemplates.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\GradiantButtonTest.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\MultiPartTemplates.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\GradiantButton.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\GradiantButtonVariant.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\ListBox.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleCustomButtons.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleWindow.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\VisualTreeDisplay.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControl.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindProductObject.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToCollection.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToDataSet.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToLinqFilteredCollection.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToXmlDataProvider.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\VirtualizationTest.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\CheckBoxList.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateControls.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ListStyles.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\RadioButtonList.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterDataSet.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupList.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch5_RoutedEvents\Ch5RoutedEvents.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonsWithContent.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonWithShape.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\CheckBoxList.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\DateControls.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\EmbeddedFont.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableContent.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableScrollerContent.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GdiTextRendering.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GraphicalTabTiles.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ImageList.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LabelTest.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LogicalScrolling.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\MultiDirectionExpanders.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\PopupTest.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ProgressBar.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\RadioButtonGroups.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ScrollableTextBoxCollumn.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SlidersCompared.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SliderTest.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\TextBoxTest.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\Tooltips.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\AssemblyResources.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\Document.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\SingleInstanceApplication.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\WindowTracker.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\BindToFont.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\ElementToElementBinding.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\FontChooser.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\MultipleBindings.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\SimpleDocument.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\TestNewCommand.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Dictionary1.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Dictionary2.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\MainWindow.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\CalanderCont.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\TextBoxCon.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Personal\Style\VSWindowStyle.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Resouces.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Animating_A_Transform.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Property_Based_Animation_7.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Pulsing_Image.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Rotation_Transform.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Scale_Transform.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Application_Scoped_Resources.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Blank.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Navigating_the_Logical_Tree_in_Code.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Styles.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Templates.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Combo.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Unhandled_Exceptions.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\Brushes.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\ClippingImage.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\BindingButtonToCommand.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\DeterminIfButtonIsEnabled.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\MenuItem.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\FlowDocument.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\Page1.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\TextBlockRichContent.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\WindowSizing.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\AttachedProperties.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CalculatorRoutedEvents.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\HandlingRoutedEvents.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\UserCont\SimpleControl.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\AccessingBinaryResourceInCode.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\BinaryResources.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\DynamicVsStatic.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\ManagingLogicalResources.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\Resources\Brushes.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\SimpleResources.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\UserSelectedColorsFonts.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\AddRemoveElementsToPanel.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\ComplexTabs.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\DragAndDrop.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\SimpleTabs.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Images.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Lists.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Menus.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TabAndFocus.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TextControls.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ToolTips.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CommonDialogs.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CustomShapedWindows.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\DetailsDialog.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\Dialogs.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\BindingToCollection.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplates.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElement.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElementCodeBindings.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail2.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\RelativeSourceBindings.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SingleObjectBinding.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\TreeViewBinding.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingDataWithAnnotations.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecastWithTriggers.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\HeaderContent.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\App.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\C4\DependencyPropertyRectangleWidth.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\DynamicResource.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\TwoResources.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\WindowsResource.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\AutomaticStyles.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\DragInCanvasTest.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventSetter.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventTriggers.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\FadeInAndOutTest.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\PlayMediaTest.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontsWithStyles.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontWithResources.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\SimpleTriggers.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\StyleInheritance.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CodeAnimation.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CustomEasingFunction.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\Easing.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\FrameRates.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\ImageWipe.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\XamlAnimation.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\AnimateRadialGradient.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\eyeBall.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\RotateButton.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonsWithAnimations.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonTemplate.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ContentTemplateBrowser.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ControlTemplates.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\GradiantButtonTest.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\MultiPartTemplates.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleCustomButtons.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleWindow.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\VisualTreeDisplay.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControl.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControlTest.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindingGroupValidation.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindProductObject.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToCollection.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToDataSet.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToLinqFilteredCollection.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToXmlDataProvider.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\ValidationTest.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\VirtualizationTest.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\CheckBoxList.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ComboBoxSelectionBox.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateControls.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateList.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ExpandingDataTemplate.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ListStyles.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\MoreValueConverters.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\RadioButtonList.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ValueConverter.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedStyles.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedTemplates.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\WrappedList.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterCollection.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterDataSet.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupInRanges.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupList.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\NavigateCollection.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch5_RoutedEvents\Ch5RoutedEvents.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonsWithContent.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonWithShape.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\CheckBoxList.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\DateControls.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\EmbeddedFont.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableContent.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableScrollerContent.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GdiTextRendering.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GraphicalTabTiles.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ImageList.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LabelTest.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LogicalScrolling.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\MultiDirectionExpanders.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\PopupTest.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ProgressBar.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\RadioButtonGroups.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ScrollableTextBoxCollumn.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SlidersCompared.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SliderTest.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\TextBoxTest.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\Tooltips.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\AssemblyResources.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\Document.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\SingleInstanceApplication.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\WindowTracker.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\BindToFont.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\ElementToElementBinding.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\FontChooser.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\MultipleBindings.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\SimpleDocument.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\TestNewCommand.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\MainWindow.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\CalanderCont.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\ColorPicker.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\TextBoxCon.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\TestWindow1.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Animating_A_Transform.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Property_Based_Animation_7.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Pulsing_Image.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Rotation_Transform.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Scale_Transform.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Application_Scoped_Resources.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Blank.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Navigating_the_Logical_Tree_in_Code.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Styles.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Templates.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Combo.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Unhandled_Exceptions.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\Brushes.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\ClippingImage.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\BindingButtonToCommand.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\DeterminIfButtonIsEnabled.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\MenuItem.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\FlowDocument.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\Page1.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\TextBlockRichContent.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\WindowSizing.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\AttachedProperties.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CalculatorRoutedEvents.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CustomTypes.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\HandlingRoutedEvents.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\TestRandom.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\UserCont\SimpleControl.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\xDependancyProperty.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\AccessingBinaryResourceInCode.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\BinaryResources.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\DynamicVsStatic.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\ManagingLogicalResources.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\SimpleResources.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\UserSelectedColorsFonts.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\AddRemoveElementsToPanel.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\ComplexTabs.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\DragAndDrop.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\SimpleTabs.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ContentControls.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Images.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Lists.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Menus.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TabAndFocus.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TextControls.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ToolTips.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CommonDialogs.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CustomShapedWindows.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\DetailsDialog.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\Dialogs.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\BindingToCollection.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo2.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplates.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplateSelectors.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTypedDataTemplates.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElement.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElementCodeBindings.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData2.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail2.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MultiBindings.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\RelativeSourceBindings.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SingleObjectBinding.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering2.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering3.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\TreeViewBinding.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingData.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingDataWithAnnotations.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecast.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecastWithTriggers.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\HeaderContent.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch7CommandsAndMVVM\RoutedCommands.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\App.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_Content.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_MarkupCompile.cache
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_MarkupCompile.lref
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CustomEasingFunction.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\XamlAnimation.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControlTest.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindingGroupValidation.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\ValidationTest.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ComboBoxSelectionBox.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateList.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ExpandingDataTemplate.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\MoreValueConverters.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ValueConverter.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedStyles.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedTemplates.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\WrappedList.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterCollection.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupInRanges.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\NavigateCollection.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\ColorPicker.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\TestWindow1.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CustomTypes.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\TestRandom.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\xDependancyProperty.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ContentControls.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo2.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplateSelectors.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTypedDataTemplates.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData2.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MultiBindings.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering2.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering3.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingData.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecast.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch7CommandsAndMVVM\RoutedCommands.baml
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.g.resources
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.Properties.Resources.resources
+C:\Users\KarlFast\Downloads\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.csproj.GenerateResource.Cache
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.exe.config
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.exe
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.pdb
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\WPFCookbook\Ch2Resources\Images\Jellyfish.jpg
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\Ch11_Styles_Behaviors\test.mp3
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\Ch7_TheApplication\Sounds\start.wav
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.exe
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\ProWPF_C.pdb
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\CustomBehaviorsLibrary.pdb
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\System.Windows.Interactivity.xml
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\de\System.Windows.Interactivity.resources.dll
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\en\System.Windows.Interactivity.resources.dll
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\es\System.Windows.Interactivity.resources.dll
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\it\System.Windows.Interactivity.resources.dll
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+K:\WPF\ProWPF_C\ProWPF_C\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.csprojResolveAssemblyReference.cache
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\C4\DependencyPropertyRectangleWidth.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\DynamicResource.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\TwoResources.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\WindowsResource.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\AutomaticStyles.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\DragInCanvasTest.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventSetter.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventTriggers.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\FadeInAndOutTest.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\PlayMediaTest.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontsWithStyles.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontWithResources.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\SimpleTriggers.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\StyleInheritance.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CodeAnimation.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\Easing.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\FrameRates.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\ImageWipe.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\AnimateRadialGradient.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\eyeBall.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\RotateButton.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\Test.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonsWithAnimations.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonTemplate.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ContentTemplateBrowser.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ControlTemplates.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\GradiantButtonTest.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\MultiPartTemplates.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\GradiantButton.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\GradiantButtonVariant.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\Resources_Ch17\ListBox.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleCustomButtons.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleWindow.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\VisualTreeDisplay.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControl.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindProductObject.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToCollection.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToDataSet.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToLinqFilteredCollection.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToXmlDataProvider.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\VirtualizationTest.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\CheckBoxList.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateControls.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ListStyles.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\RadioButtonList.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterDataSet.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupList.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch5_RoutedEvents\Ch5RoutedEvents.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonsWithContent.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonWithShape.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\CheckBoxList.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\DateControls.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\EmbeddedFont.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableContent.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableScrollerContent.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GdiTextRendering.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GraphicalTabTiles.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ImageList.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LabelTest.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LogicalScrolling.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\MultiDirectionExpanders.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\PopupTest.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ProgressBar.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\RadioButtonGroups.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ScrollableTextBoxCollumn.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SlidersCompared.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SliderTest.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\TextBoxTest.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\Tooltips.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\AssemblyResources.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\Document.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\SingleInstanceApplication.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\WindowTracker.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\BindToFont.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\ElementToElementBinding.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\FontChooser.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\MultipleBindings.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\SimpleDocument.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\TestNewCommand.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Dictionary1.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Dictionary2.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\MainWindow.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\CalanderCont.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\TextBoxCon.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Personal\Style\VSWindowStyle.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Resouces.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Animating_A_Transform.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Property_Based_Animation_7.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Pulsing_Image.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Rotation_Transform.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Scale_Transform.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Application_Scoped_Resources.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Blank.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Navigating_the_Logical_Tree_in_Code.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Styles.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Templates.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Combo.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Unhandled_Exceptions.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\Brushes.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\ClippingImage.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\BindingButtonToCommand.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\DeterminIfButtonIsEnabled.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\MenuItem.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\FlowDocument.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\Page1.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\TextBlockRichContent.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\WindowSizing.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\AttachedProperties.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CalculatorRoutedEvents.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\HandlingRoutedEvents.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\UserCont\SimpleControl.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\AccessingBinaryResourceInCode.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\BinaryResources.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\DynamicVsStatic.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\ManagingLogicalResources.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\Resources\Brushes.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\SimpleResources.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\UserSelectedColorsFonts.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\AddRemoveElementsToPanel.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\ComplexTabs.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\DragAndDrop.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\SimpleTabs.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Images.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Lists.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Menus.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TabAndFocus.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TextControls.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ToolTips.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CommonDialogs.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CustomShapedWindows.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\DetailsDialog.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\Dialogs.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\BindingToCollection.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplates.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElement.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElementCodeBindings.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail2.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\RelativeSourceBindings.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SingleObjectBinding.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\TreeViewBinding.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingDataWithAnnotations.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecastWithTriggers.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\HeaderContent.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\App.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\C4\DependencyPropertyRectangleWidth.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\DynamicResource.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\TwoResources.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch10_Resources\WindowsResource.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\AutomaticStyles.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\DragInCanvasTest.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventSetter.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\EventTriggers.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\FadeInAndOutTest.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\PlayMediaTest.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontsWithStyles.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\ReuseFontWithResources.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\SimpleTriggers.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch11_Styles_Behaviors\StyleInheritance.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CodeAnimation.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CustomEasingFunction.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\Easing.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\FrameRates.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\ImageWipe.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\XamlAnimation.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\AnimateRadialGradient.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\eyeBall.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch16_AdvancedAnimation\RotateButton.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonsWithAnimations.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ButtonTemplate.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ContentTemplateBrowser.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\ControlTemplates.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\GradiantButtonTest.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\MultiPartTemplates.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleCustomButtons.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\SimpleWindow.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch17_ControlTemplates\VisualTreeDisplay.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControl.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControlTest.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindingGroupValidation.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindProductObject.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToCollection.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToDataSet.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToLinqFilteredCollection.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindToXmlDataProvider.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\ValidationTest.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\VirtualizationTest.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\CheckBoxList.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ComboBoxSelectionBox.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateControls.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateList.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ExpandingDataTemplate.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ListStyles.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\MoreValueConverters.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\RadioButtonList.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ValueConverter.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedStyles.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedTemplates.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\WrappedList.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterCollection.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterDataSet.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupInRanges.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupList.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\NavigateCollection.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch5_RoutedEvents\Ch5RoutedEvents.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonsWithContent.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ButtonWithShape.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\CheckBoxList.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\DateControls.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\EmbeddedFont.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableContent.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ExpandableScrollerContent.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GdiTextRendering.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\GraphicalTabTiles.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ImageList.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LabelTest.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\LogicalScrolling.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\MultiDirectionExpanders.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\PopupTest.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ProgressBar.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\RadioButtonGroups.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\ScrollableTextBoxCollumn.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SlidersCompared.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\SliderTest.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\TextBoxTest.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch6_Controls\Tooltips.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\AssemblyResources.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\Document.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\SingleInstanceApplication.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch7_TheApplication\WindowTracker.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\BindToFont.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\ElementToElementBinding.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\FontChooser.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch8_ElementBinding\MultipleBindings.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\SimpleDocument.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch9_Commands\TestNewCommand.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\MainWindow.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\CalanderCont.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\ColorPicker.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\TextBoxCon.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\TestWindow1.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Animating_A_Transform.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Property_Based_Animation_7.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Pulsing_Image.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Rotation_Transform.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Animation\Scale_Transform.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Application_Scoped_Resources.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Blank.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Navigating_the_Logical_Tree_in_Code.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Styles.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Templates.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Combo.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Basics\Unhandled_Exceptions.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\Brushes.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Brushes\ClippingImage.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\BindingButtonToCommand.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\DeterminIfButtonIsEnabled.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Commands\MenuItem.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\FlowDocument.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\Page1.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\TextBlockRichContent.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ToKnow2000\Controls\WindowSizing.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\AttachedProperties.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CalculatorRoutedEvents.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CustomTypes.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\HandlingRoutedEvents.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\TestRandom.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\UserCont\SimpleControl.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\xDependancyProperty.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\AccessingBinaryResourceInCode.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\BinaryResources.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\DynamicVsStatic.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\ManagingLogicalResources.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\SimpleResources.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch2Resources\UserSelectedColorsFonts.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\AddRemoveElementsToPanel.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\ComplexTabs.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\DragAndDrop.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch3LayoutAndPanels\SimpleTabs.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ContentControls.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Images.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Lists.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\Menus.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TabAndFocus.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\TextControls.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ToolTips.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CommonDialogs.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\CustomShapedWindows.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\DetailsDialog.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch5ApplicationAndWindows\Dialogs.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\BindingToCollection.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo2.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplates.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplateSelectors.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTypedDataTemplates.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElement.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ElementToElementCodeBindings.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData2.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MasterDetail2.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MultiBindings.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\RelativeSourceBindings.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SingleObjectBinding.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering2.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering3.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\TreeViewBinding.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingData.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingDataWithAnnotations.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecast.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecastWithTriggers.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\HeaderContent.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch7CommandsAndMVVM\RoutedCommands.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\App.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_Content.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_MarkupCompile.cache
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C_MarkupCompile.lref
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\CustomEasingFunction.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch15_Animation\XamlAnimation.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch18_CustomControls\ColorPickerUserControlTest.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\BindingGroupValidation.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch19_Databinding\ValidationTest.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ComboBoxSelectionBox.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\DataTemplateList.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ExpandingDataTemplate.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\MoreValueConverters.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\ValueConverter.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedStyles.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\VariedTemplates.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch20_Databinding\WrappedList.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\FilterCollection.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\GroupInRanges.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\Ch21_Databinding\NavigateCollection.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\MiscSources\WPFTutorialNet\Controls\ColorPicker.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\TestWindow1.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\CustomTypes.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\TestRandom.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch1Foundations\xDependancyProperty.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch4StandardControls\ContentControls.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataGridDemo2.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTemplateSelectors.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\DataTypedDataTemplates.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\GroupingData2.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\MultiBindings.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering2.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\SortingAndFiltering3.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\ValidatingData.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch6DataBinding\WeatherForecast.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\WPFCookbook\Ch7CommandsAndMVVM\RoutedCommands.baml
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.g.resources
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.Properties.Resources.resources
+K:\WPF\ProWPF_C\ProWPF_C\obj\Debug\ProWPF_C.csproj.GenerateResource.Cache

@@ -1,0 +1,24 @@
+﻿<Window x:Class="ProWPF_C.Ch5_RoutedEvents.RoutedEvents"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ch5RoutedEvents" Height="412" Width="500">
+    <Grid>
+        <StackPanel>
+            <Image MouseLeave="img_MouseLeave" MouseEnter="img_MouseEnter" Name="img" Source="zen1.jpg" Width="80"/>
+            <StackPanel Tag="C4" Button.Click="StackPanel_Click">
+                
+                <Separator></Separator>
+                <Button Name="cmd1">Command 1</Button>
+                <Button Name="cmd2">Command 2</Button>
+                <Button Name="cmd3">Command 3</Button>
+            </StackPanel>
+
+        </StackPanel>
+        
+        
+        
+        
+        
+        
+    </Grid>
+</Window>

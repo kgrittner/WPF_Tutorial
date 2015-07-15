@@ -1,0 +1,29 @@
+﻿<Window x:Class="ProWPF_C.ToKnow2000.Animation.Animating_A_Transform"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Animating_A_Transform" Height="300" Width="300">
+    <Grid>
+        <TextBlock Text="We shall overcome" HorizontalAlignment="Center" VerticalAlignment="Center"
+               Padding="20,10" Background="PaleGoldenrod" FontSize="16">
+            <TextBlock.RenderTransform>
+                <TranslateTransform x:Name="transTransform" X="-100" Y="-80"/>
+            </TextBlock.RenderTransform>
+            <TextBlock.Triggers>
+                <EventTrigger RoutedEvent="TextBlock.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="transTransform"
+                                         Storyboard.TargetProperty="X"
+                                         From="-100" To="100" Duration="0:0:0.7"
+                                         AutoReverse="True" RepeatBehavior="Forever"/>
+                            <DoubleAnimation Storyboard.TargetName="transTransform"
+                                         Storyboard.TargetProperty="Y"
+                                         From="-80" To="80" Duration="0:0:1.5"
+                                         AutoReverse="True" RepeatBehavior="Forever"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </TextBlock.Triggers>
+        </TextBlock>
+    </Grid>
+</Window>

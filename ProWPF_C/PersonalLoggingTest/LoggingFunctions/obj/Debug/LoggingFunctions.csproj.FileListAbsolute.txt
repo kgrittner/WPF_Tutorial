@@ -1,0 +1,15 @@
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\LoggingFunctions\bin\Debug\LoggingFunctions.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\LoggingFunctions\bin\Debug\LoggingFunctions.pdb
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\LoggingFunctions\obj\Debug\LoggingFunctions.csprojResolveAssemblyReference.cache
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\LoggingFunctions\obj\Debug\LoggingFunctions.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\LoggingFunctions\obj\Debug\LoggingFunctions.pdb
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\LoggingFunctions\bin\Debug\LoggingFunctions.dll
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\LoggingFunctions\bin\Debug\LoggingFunctions.pdb
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\LoggingFunctions\obj\Debug\LoggingFunctions.csprojResolveAssemblyReference.cache
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\LoggingFunctions\obj\Debug\LoggingFunctions.dll
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\LoggingFunctions\obj\Debug\LoggingFunctions.pdb
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\LoggingFunctions\bin\Debug\LoggingFunctions.dll
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\LoggingFunctions\bin\Debug\LoggingFunctions.pdb
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\LoggingFunctions\obj\Debug\LoggingFunctions.csprojResolveAssemblyReference.cache
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\LoggingFunctions\obj\Debug\LoggingFunctions.dll
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\LoggingFunctions\obj\Debug\LoggingFunctions.pdb

@@ -1,0 +1,7 @@
+﻿<Window x:Class="ProWPF_C.WPFCookbook.Ch3LayoutAndPanels.AddRemoveElementsToPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AddRemoveElementsToPanel" Height="380" Width="611">
+    <Canvas x:Name="_canvas" Background="White" MouseUp="OnClickCanvas">
+    </Canvas>
+</Window>

@@ -1,0 +1,46 @@
+C:\Users\KarlFast\AppData\Local\Temporary Projects\PersonalLoggingTest\bin\Debug\PersonalLoggingTest.exe.config
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\PersonalLoggingTest.exe.config
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\PersonalLoggingTest.exe
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\PersonalLoggingTest.pdb
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\LoggingFunctions.dll
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\LoggingFunctions.pdb
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.csprojResolveAssemblyReference.cache
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\MainWindow.baml
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\MainWindow.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\App.g.cs
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest_MarkupCompile.cache
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.g.resources
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.Properties.Resources.resources
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.csproj.GenerateResource.Cache
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.exe
+C:\Users\KarlFast\Documents\Visual Studio 2012\Projects\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.pdb
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\PersonalLoggingTest.exe.config
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.exe
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.pdb
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\PersonalLoggingTest.exe
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\PersonalLoggingTest.pdb
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\LoggingFunctions.dll
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\LoggingFunctions.pdb
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.csprojResolveAssemblyReference.cache
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\MainWindow.baml
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\MainWindow.g.cs
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\App.g.cs
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest_MarkupCompile.cache
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.g.resources
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.Properties.Resources.resources
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.csproj.GenerateResource.Cache
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\PersonalLoggingTest.exe.config
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\PersonalLoggingTest.exe
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\PersonalLoggingTest.pdb
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\LoggingFunctions.dll
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\bin\Debug\LoggingFunctions.pdb
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.csprojResolveAssemblyReference.cache
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\MainWindow.baml
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\MainWindow.g.cs
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\App.g.cs
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest_MarkupCompile.cache
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.g.resources
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.Properties.Resources.resources
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.csproj.GenerateResource.Cache
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.exe
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\PersonalLoggingTest\obj\Debug\PersonalLoggingTest.pdb

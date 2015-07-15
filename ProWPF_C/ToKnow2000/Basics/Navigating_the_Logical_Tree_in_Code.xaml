@@ -1,0 +1,30 @@
+﻿<Window x:Class="ProWPF_C.ToKnow2000.Basics.Navigating_the_Logical_Tree_in_Code"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Templates" Height="395" Width="1018">
+    
+    <StackPanel>
+        <StackPanel HorizontalAlignment="Center">
+            <Label FontWeight="Black" Content="This Displays Dependencies from the main window"/>
+        </StackPanel>
+        
+        <WrapPanel Margin="10">
+            <Button Click="Button_Click_1" Content="MainWindow: mainGrid" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="192"/>
+            <Button Click="Button_Click_2" Content="MainWindow: stpn2" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="192"/>
+            <Button Click="Button_Click_3" Content="Visual Tree" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="192"/>
+            
+        </WrapPanel>
+
+
+        <StackPanel Height="331">
+            <Border BorderBrush="Black" BorderThickness="2">
+                <TextBlock Name="txtBlock" Height="310" Width="1018"  />
+            </Border>
+        </StackPanel>
+    </StackPanel>
+
+    
+
+
+
+</Window>

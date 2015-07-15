@@ -1,0 +1,14 @@
+﻿<Window x:Class="ProWPF_C.Ch7_TheApplication.AssemblyResources"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AssemblyResources" Height="300" Width="300">
+    <Grid>
+        <StackPanel>
+            <Button Click="Button_Click" Margin="5" Padding="5">Play</Button>
+            <Image Name="img" Margin="5" Source="ResourceImages/Blue hills.jpg"></Image>
+            <MediaElement Name="Sound" Source="Ch7_TheApplication/Sounds/start.wav"
+                          LoadedBehavior="Manual">
+            </MediaElement>
+        </StackPanel>
+    </Grid>
+</Window>

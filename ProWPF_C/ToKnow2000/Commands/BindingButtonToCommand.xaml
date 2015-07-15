@@ -1,0 +1,11 @@
+﻿<Window x:Class="ProWPF_C.ToKnow2000.Commands.BindingButtonToCommand"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BindingButtonToCommand" Height="400" Width="657">
+    <Grid>
+        <StackPanel>
+            <Button Command="ApplicationCommands.Open">Open File</Button>
+            <TextBlock Name="txtCanExTracker"></TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

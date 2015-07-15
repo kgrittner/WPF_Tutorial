@@ -1,0 +1,40 @@
+﻿<Window x:Class="ProWPF_C.WPFCookbook.Ch2Resources.SimpleResources"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SimpleResources" Height="350" Width="525">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="brush1">
+            <GradientStop Offset="0" Color="Yellow" />
+            <GradientStop Offset="1" Color="Brown" />
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="brush3">
+            <GradientStop Offset="0" Color="Red" />
+            <GradientStop Offset="1" Color="Orange" />
+        </LinearGradientBrush>
+        
+        <!-- 4) Resources that use other resources-->
+        <DataTemplate x:Shared="False"  x:Key="temp1">
+            <Rectangle Fill="{StaticResource brush3}"
+                       StrokeThickness="4"
+                       Stroke="DarkBlue"
+                       ></Rectangle>
+        </DataTemplate>
+    </Window.Resources>
+    
+    <!--5)-->
+    <!--Resources are shared by default, meaning there's only one instance created no matter 
+    how many lookups exist for that resource. 
+    Sometimes it's useful to get new instances for every lookup of a particular resource. 
+    To do that, we can add the attribute 
+    x:Shared="False" 
+    in defining the resource. 
+    Note there's no intellisense for that, but it works.-->
+    
+    <StackPanel>
+        <Rectangle Height="100" Stroke="Black" Fill="{StaticResource brush1}">
+        </Rectangle>
+        
+        <Ellipse StrokeThickness="20" Height="100" Stroke="{StaticResource brush1}"></Ellipse>
+        <Button Click="OnModifyBrush">Modify Brush</Button>
+    </StackPanel>
+</Window>

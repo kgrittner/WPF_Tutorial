@@ -1,0 +1,9 @@
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\GeneralHealper\bin\Debug\GeneralHealper.dll
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\GeneralHealper\bin\Debug\GeneralHealper.pdb
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\GeneralHealper\obj\Debug\GeneralHealper.dll
+C:\Users\KarlFast\Documents\Projects\Run\Classes\PersonalLoggingTest\GeneralHealper\obj\Debug\GeneralHealper.pdb
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\GeneralHealper\bin\Debug\GeneralHealper.dll
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\GeneralHealper\bin\Debug\GeneralHealper.pdb
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\GeneralHealper\obj\Debug\GeneralHealper.csprojResolveAssemblyReference.cache
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\GeneralHealper\obj\Debug\GeneralHealper.dll
+C:\aaaProjects\Run\Classes\PersonalLoggingTest\GeneralHealper\obj\Debug\GeneralHealper.pdb

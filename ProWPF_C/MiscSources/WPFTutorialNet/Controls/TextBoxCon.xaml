@@ -1,0 +1,25 @@
+﻿<Window x:Class="ProWPF_C.MiscSources.WPFTutorialNet.Controls.TextBoxCon"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        Title="TextBoxCon" Height="349" Width="424"
+    >
+    <Window.Resources>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Margin="10">
+            <WrapPanel>
+                <Label>Enable Spell Check:</Label>
+                <TextBox Name="txtVal"  Width="250" SpellCheck.IsEnabled="True" Language="en-US"></TextBox>
+                
+                
+                
+            </WrapPanel>
+
+           
+
+            <Label>The name you entered:</Label>
+            <TextBox Text="Hello "/>
+        </StackPanel>
+    </Grid>
+</Window>

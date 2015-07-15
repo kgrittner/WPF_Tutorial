@@ -1,0 +1,11 @@
+﻿<Window x:Class="ProWPF_C.WPFCookbook.Ch1Foundations.xDependancyProperty"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ProWPF_C.WPFCookbook.Ch1Foundations.UserCont"
+        Title="xDependancyProperty" Height="300" Width="300">
+    <StackPanel>
+        <local:SimpleControl x:Name="_simple3" />
+        <TextBlock Text="{Binding YearPublished, ElementName=_simple3}" FontSize="30" />
+        <Button Content="Change Value" FontSize="20" Click="OnChangeValue"/>
+    </StackPanel>
+</Window>

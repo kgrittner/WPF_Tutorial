@@ -1,0 +1,27 @@
+﻿<Window x:Class="ProWPF_C.ToKnow2000.Animation.Rotation_Transform"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Rotation_Transform" Height="300" Width="300">
+    <Grid>
+        <Label Content="Gambling now legal in Nevada" Background="Plum"
+           HorizontalAlignment="Center" VerticalAlignment="Center"
+           Padding="20,10" FontSize="16"
+           RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <RotateTransform x:Name="rotTransform" />
+            </Label.RenderTransform>
+            <Label.Triggers>
+                <EventTrigger RoutedEvent="Label.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="rotTransform"
+                                         Storyboard.TargetProperty="Angle"
+                                         From="0" To="360" Duration="0:0:2.5"
+                                         RepeatBehavior="Forever"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Label.Triggers>
+        </Label>
+    </Grid>
+</Window>

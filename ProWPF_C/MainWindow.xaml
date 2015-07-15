@@ -1,0 +1,453 @@
+﻿<Window x:Class="ProWPF_C.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pro WPF 4.5 in C#, And 2000 Things to Know" Height="731" Width="1091.701"
+        
+        >
+    <Window.Resources>
+        <Style x:Key="styleExpander" >
+            <Setter Property="Control.Padding" Value="6"></Setter>
+            <Setter Property="Control.FontSize" Value="14"></Setter>
+            <Setter Property="Control.FontWeight" Value="SemiBold"></Setter>
+        </Style>
+        <Style x:Key="styleTopLabel" >
+            <Setter Property="Control.Padding" Value="10"></Setter>
+            <Setter Property="Control.FontSize" Value="16"></Setter>
+            <Setter Property="Control.FontWeight" Value="SemiBold"></Setter>
+            <Setter Property="Control.HorizontalContentAlignment" Value="Center"></Setter>
+            <Setter Property="Control.Background" Value="Black"></Setter>
+            <Setter Property="Control.Foreground" Value="White"></Setter>
+        </Style>
+        <Style x:Key="styleMiscLabel" >
+            <Setter Property="Control.Padding" Value="4"></Setter>
+            <Setter Property="Control.FontSize" Value="14"></Setter>
+            <Setter Property="Control.FontWeight" Value="SemiBold"></Setter>
+            <Setter Property="Control.HorizontalContentAlignment" Value="Center"></Setter>
+            <Setter Property="Control.Background" Value="DarkGray"></Setter>
+            <Setter Property="Control.Foreground" Value="White"></Setter>
+        </Style>
+        <ControlTemplate x:Key="ButtonTemplate" TargetType="{x:Type Button}">
+            <Border Name="Border"
+                Background="{Binding ElementName=MainWindow, Path=Background}"
+                TextBlock.Foreground="Black" TextBlock.FontSize="14" TextBlock.FontWeight="Normal"
+                BorderThickness="0" Margin="40,0" Padding="3" HorizontalAlignment="Left"
+                  >
+                <ContentPresenter SnapsToDevicePixels="True" RecognizesAccessKey="True">
+                </ContentPresenter>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="Border" Property="TextBlock.Foreground" Value="Blue" />
+                    <Setter TargetName="Border" Property="Cursor" Value="Hand" />
+                    <Setter Property="ContentTemplate">
+                        <Setter.Value>
+                            <DataTemplate>
+                                <TextBlock TextDecorations="Underline" Text="{TemplateBinding Content}"/>
+                            </DataTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter TargetName="Border" Property="TextBlock.Foreground" Value="Green" />
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+
+    <Grid Name="gridMain">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <ScrollViewer>
+            <StackPanel> <!--Pro WPF-->
+                <Label Style="{StaticResource styleTopLabel}">Pro WPF in C#</Label>
+                <Expander Tag="Ch21_Databinding" Header="Ch21 - Databinding" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">NavigateCollection</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">FilterCollection</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">FilterDataSet</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">GroupList</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">GroupInRanges</Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch20_Databinding" Header="Ch20 - Databinding" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">ValueConverter</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">MoreValueConverters</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ListStyles</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">RadioButtonList</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">CheckBoxList</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">VariedStyles</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DataTemplateList</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DataTemplateControls</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">VariedTemplates</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ExpandingDataTemplate</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">WrappedList</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ComboBoxSelectionBox</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch2_Xaml" Header="Ch2 - Xaml" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">CodeOnly</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="C4" Header="Ch4 - Dependency Properties" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">DependencyPropertyRectangleWidth</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch5_RoutedEvents" Header="Ch5 - RoutedEvents" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">RoutedEvents</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch6_Controls" Header="Ch6 - Controls" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">EmbeddedFont</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">GdiTextRendering</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ButtonsWithContent</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ButtonWithShape</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">LabelTest</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">RadioButtonGroups</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">Tooltips</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">PopupTest</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ScrollableTextBoxCollumn</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">LogicalScrolling</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">GraphicalTabTiles</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ExpandableContent</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">MultiDirectionExpanders</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ExpandableScrollerContent</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">TextBoxTest</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ImageList</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">CheckBoxList</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">SliderTest</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">SlidersCompared</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ProgressBar</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DateControls</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch7_TheApplication" Header="Ch7 - The Application" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">WindowTracker</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">SingleInstanceApplication</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">AssemblyResources</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch8_ElementBinding" Header="Ch8 - Element Binding" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">ElementToElementBinding</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">MultipleBindings</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">BindToFont</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">FontChooser</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch9_Commands" Header="Ch9 - Commands" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">TestNewCommand</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">SimpleDocument</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch10_Resources" Header="Ch10 - Resources" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">WindowsResource</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DynamicResource</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">TwoResources</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">SKIPPED Resources From Library</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch11_Styles_Behaviors" Header="Ch11 - Styles and Behaviors" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <TextBlock Margin="5" Padding="5">Styles</TextBlock>
+                        <Button Template="{StaticResource ButtonTemplate}">ReuseFontWithResources</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ReuseFontsWithStyles</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">EventSetter</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">StyleInheritance</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">AutomaticStyles</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">SimpleTriggers</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">EventTriggers</Button>
+                        <TextBlock Margin="5" Padding="5">Behaviors</TextBlock>
+                        <Button Template="{StaticResource ButtonTemplate}">PlayMediaTest</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">FadeInAndOutTest</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DragInCanvasTest</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch15_Animation" Header="Ch15 - Animation" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">CodeAnimation</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">XamlAnimation</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ImageWipe</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">Easing</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">CustomEasingFunction</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">FrameRates</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch16_AdvancedAnimation" Header="Ch16 - Advanced Animation" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">AnimateRadialGradient</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">RotateButton</Button>
+                        <TextBlock FontSize="12">FrameBased:</TextBlock>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch17_ControlTemplates" Header="Ch17 - Control Templates" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <TextBlock Margin="5" Padding="5">Simple Window</TextBlock>
+                        <Button Template="{StaticResource ButtonTemplate}">SimpleWindow</Button>
+                        <TextBlock Margin="5" Padding="5">Control Templates</TextBlock>
+                        <Button Template="{StaticResource ButtonTemplate}">SimpleCustomButtons</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ButtonsWithAnimations</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">GradiantButtonTest</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ButtonTemplate</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">MultiPartTemplates</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ContentTemplateBrowser</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch18_CustomControls" Header="Ch18 - Custom Controls" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">ColorPickerUserControlTest</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="Ch19_Databinding" Header="Ch19 - Databinding" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">BindProductObject</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">BindToCollection</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">BindToDataSet</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">BindToLinqFilteredCollection</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">VirtualizationTest</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ValidationTest</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">BindingGroupValidation</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">BindToXmlDataProvider</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                
+            </StackPanel>
+        </ScrollViewer>
+        <ScrollViewer Grid.Column="1">
+            <StackPanel Name="stpToKnow">
+                <Label Style="{StaticResource styleTopLabel}">2000 Things to Know about WPF</Label>
+                <Expander Tag="ToKnow2000.Animation" Header="Animation" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">Animating_A_Transform</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">Property_Based_Animation_7</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">Pulsing_Image</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">Rotation_Transform</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">Scale_Transform</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="ToKnow2000.Brushes" Header="Brushes" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">Brushes</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ClippingImage</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="ToKnow2000.Commands" Header="Commands" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">MenuItem</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DeterminIfButtonIsEnabled</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">BindingButtonToCommand</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="ToKnow2000.Controls" Header="Controls" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">TextBlockRichContent</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">FlowDocument</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">WindowSizing</Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Label Style="{StaticResource styleTopLabel}">WPF Cookbook 4.5</Label>
+                <Expander Tag="WPFCookbook.Ch1Foundations" Header="Ch1 Foundations" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">CustomTypes</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">TestRandom</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">xDependancyProperty</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">AttachedProperties</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">HandlingRoutedEvents</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">CalculatorRoutedEvents</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="WPFCookbook.Ch2Resources" Header="Ch2 Resources" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">
+                            <Button.ToolTip>
+                                <ToolTip Foreground="White" Background="Black" FontSize="14">
+                                    <StackPanel>
+                                        <TextBlock VerticalAlignment="Center">
+                                            1) If resource not found no error <LineBreak></LineBreak>
+                                            2) Adding or deleting resources dynamically <LineBreak></LineBreak>
+                                            3) Modifying resources <LineBreak></LineBreak>
+                                            4) Resources that use other resources <LineBreak></LineBreak>
+                                            5) Non-Shared resources <LineBreak></LineBreak>
+                                        </TextBlock>
+                                         
+                                    </StackPanel>
+                                </ToolTip>
+                            </Button.ToolTip>
+                            SimpleResources</Button>
+                        <Button Template="{StaticResource ButtonTemplate}"> DynamicVsStatic</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">
+                            <Button.ToolTip>
+                                <ToolTip Foreground="White" Background="Black" FontSize="14">
+                                    <StackPanel>
+                                        <TextBlock VerticalAlignment="Center">
+                                            This is set to resources in Windows Theme Settings <LineBreak />
+                                            To use this go to:<LineBreak />
+                                            1) Control Panel<LineBreak />
+                                            2) Personalization<LineBreak />
+                                            3) Themes and change theme to Classic<LineBreak />
+                                                <LineBreak />
+                                            You will see the color and font change as<LineBreak />
+                                            it is bound to the system settings
+
+                                        </TextBlock>
+
+                                    </StackPanel>
+                                </ToolTip>
+                            </Button.ToolTip>
+                            UserSelectedColorsFonts</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">BinaryResources</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">AccessingBinaryResourceInCode</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ManagingLogicalResources</Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="WPFCookbook.Ch3LayoutAndPanels" Header="Ch3 Layout and Panels" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">AddRemoveElementsToPanel</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">SimpleTabs</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ComplexTabs</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DragAndDrop</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="WPFCookbook.Ch4StandardControls" Header="Ch4 StandardControls" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">TextControls</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ContentControls</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">Images</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ToolTips</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">Lists</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">Menus</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">TabAndFocus</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">HeaderContent</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="WPFCookbook.Ch5ApplicationAndWindows" Header="Ch5 ApplicationAndWindows" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">Dialogs</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">CommonDialogs</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">CustomShapedWindows</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="WPFCookbook.Ch6DataBinding" Header="Ch6 DataBinding" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">ElementToElement</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ElementToElementCodeBindings</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">SingleObjectBinding</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">BindingToCollection</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DataTemplates</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DataTemplateSelectors</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DataTypedDataTemplates</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">WeatherForecast</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">WeatherForecastWithTriggers</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">MasterDetail</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">MasterDetail2</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">SortingAndFiltering</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">SortingAndFiltering2</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">SortingAndFiltering3</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">GroupingData</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">GroupingData2</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">MultiBindings</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">TreeViewBinding</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DataGridDemo</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">DataGridDemo2</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ValidatingData</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ValidatingDataWithAnnotations</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">RelativeSourceBindings</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Expander Tag="WPFCookbook.Ch7CommandsAndMVVM" Header="Ch7 Commands And MVVM" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">RoutedCommands</Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                        <Button Template="{StaticResource ButtonTemplate}"></Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                
+            </StackPanel>
+        </ScrollViewer>
+        <ScrollViewer Grid.Column="2">
+            <StackPanel>
+                <Label Style="{StaticResource styleTopLabel}">Misc Sources</Label>
+                <Label Style="{StaticResource styleMiscLabel}" Margin="0,13,0,0">WPF Tutorial Net</Label>
+                <Expander Tag="MiscSources.WPFTutorialNet.Controls" Header="Controls" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">CalanderCont</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">ColorPicker</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">TextBoxCon</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+                <Label Style="{StaticResource styleMiscLabel}" Margin="0,13,0,0">Personal Projects</Label>
+                <Expander Tag="Personal.Style" Header="Style" Style="{StaticResource styleExpander}" Button.Click="Expander_Click">
+                    <StackPanel>
+                        <Button Template="{StaticResource ButtonTemplate}">VSStyleWindow</Button>
+                        <Button Click="Button_Click">VisualStudioMetro</Button>
+                        <Button Template="{StaticResource ButtonTemplate}">RunInSystemTray</Button>
+                    </StackPanel>
+                </Expander>
+                <Separator></Separator>
+            </StackPanel>
+        </ScrollViewer>
+        <Frame Name="myFrame" />
+    </Grid>
+</Window>

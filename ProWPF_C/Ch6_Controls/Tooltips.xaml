@@ -1,0 +1,50 @@
+﻿<Window x:Class="ProWPF_C.Ch6_Controls.Tooltips"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Toottips" Height="300" Width="300">
+    <Grid>
+        <StackPanel Margin="5" ToolTip="StackPanel tooltip">
+            <!--Normal Tooltip-->
+            <Button ToolTip="This is my tooltip" ToolTipService.InitialShowDelay="5000">
+                I have a tooltip
+            </Button>
+            
+            <!--FANCY TOOLTIP-->
+            <Button>
+                <Button.ToolTip>
+                    <ToolTip Background="#60AA4030" Foreground="White">
+                        <StackPanel>
+                            <TextBlock Margin="3">Image and text</TextBlock>
+                            <Image Source="./happyface.jpg"></Image>
+                            <TextBlock Margin="3">Image and text</TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Button.ToolTip>
+                <Button.Content>I have a fancy tooltip</Button.Content>
+            </Button>
+            
+            <!--Placed on bottom-->
+            <Button ToolTip="This is my tooltip" ToolTipService.Placement="Bottom">
+                Placement test on bottom
+            </Button>
+            
+            <!--Really nice tooltip-->
+            <Button>
+                <Button.ToolTip>
+                    <ToolTip Foreground="White" Background="#60AA4030" HasDropShadow="True">
+                        <StackPanel>
+                            <WrapPanel>
+                                <Image Source="./happyface.jpg"></Image>
+                                <TextBlock VerticalAlignment="Center">
+                                    Wow! Really Nice Tooltip!
+                                </TextBlock>
+                            </WrapPanel>
+                        </StackPanel>
+                    </ToolTip>
+                </Button.ToolTip>
+                <Button.Content>This is my really nice tooltip</Button.Content>
+            </Button>
+            
+        </StackPanel>
+    </Grid>
+</Window>
